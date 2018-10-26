@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33691e</color>
+    <color name="colorPrimaryDark">#558B2F</color>
+    <color name="colorAccent">#CCFF90</color>
+    <color name="back">#01579B</color>
+    <color name="puteh">#FFFFFF</color>
+    <color name="progress">#76ff03</color>
+</resources>
